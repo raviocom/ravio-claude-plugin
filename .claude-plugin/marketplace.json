@@ -1,0 +1,17 @@
+{
+  "name": "ravio",
+  "owner": {
+    "name": "Ravio",
+    "url": "https://ravio.com"
+  },
+  "metadata": {
+    "description": "Ravio's skills and plugins for Claude."
+  },
+  "plugins": [
+    {
+      "name": "ravio",
+      "source": "./plugins/ravio",
+      "description": "Ravio's compensation know-how for agents"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ravio": {
+      "type": "http",
+      "url": "https://app.ravio.com/mcp"
+    }
+  }
+}
